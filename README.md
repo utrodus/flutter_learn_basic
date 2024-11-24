@@ -1,6 +1,6 @@
-# flutter_learn_basic
+# Learn Flutter From Basic
 
-A new Flutter project.
+This project will introduce basic concept for Dart & Flutter
 
 ## Getting Started
 
